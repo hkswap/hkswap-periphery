@@ -1,0 +1,13 @@
+{
+  "name": "hkswap-peripheral",
+  "version": "1.0.0",
+  "description": "Peripheral smart contracts for interacting with hks",
+  "keywords": [
+    "contracts"
+  ],
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "@uniswap/lib": "1.1.1",
+    "@uniswap/v2-core": "^1.0.1"
+  }
+}
